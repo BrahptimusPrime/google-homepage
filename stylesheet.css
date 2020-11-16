@@ -80,7 +80,7 @@ ul{
     height: 42px;
     border-radius: 50px;
     border: solid 1px rgb(230, 230, 230);
-    background-image: url(/images/magbutton.png),url(/images/micbutton.png);
+    background-image: url(images/magbutton.png),url(images/micbutton.png);
     background-size: 25px,25px;
     background-position: 2% 50%, 98% 50%;
     background-repeat: no-repeat, no-repeat;
